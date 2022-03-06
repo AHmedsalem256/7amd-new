@@ -1,0 +1,1134 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 4126,
+	"last_window_id": 1,
+	"log_indexing": false,
+	"next_update_check": 1645976367,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 0.0,
+		"new_window_maximized": true,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/ahmed/lol/no.sh",
+				"/home/ahmed/tri/trick/l.sh"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/ahmed/tri/trick/loop.sh",
+					"settings":
+					{
+						"buffer_size": 49,
+						"encoding": "UTF-8",
+						"line_ending": "Unix",
+						"name": "#include<stdio.h>"
+					},
+					"undo_stack":
+					[
+						[
+							1,
+							1,
+							"insert",
+							{
+								"characters": "#include"
+							},
+							"CAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAIAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							2,
+							1,
+							"insert",
+							{
+								"characters": "<stdio"
+							},
+							"BgAAAAgAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAKAAAAAAAAAAAAAAAKAAAAAAAAAAsAAAAAAAAAAAAAAAsAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAANAAAAAAAAAAAAAAANAAAAAAAAAA4AAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							3,
+							1,
+							"insert",
+							{
+								"characters": ".h>"
+							},
+							"AwAAAA4AAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABEAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAADgAAAAAAAAAOAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							4,
+							1,
+							"insert",
+							{
+								"characters": "\n\nin"
+							},
+							"BAAAABEAAAAAAAAAEgAAAAAAAAAAAAAAEgAAAAAAAAATAAAAAAAAAAAAAAATAAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAFQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAEQAAAAAAAAARAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							5,
+							1,
+							"insert",
+							{
+								"characters": "t"
+							},
+							"AQAAABUAAAAAAAAAFgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAFQAAAAAAAAAVAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							6,
+							1,
+							"insert",
+							{
+								"characters": " main"
+							},
+							"BQAAABYAAAAAAAAAFwAAAAAAAAAAAAAAFwAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABkAAAAAAAAAAAAAABkAAAAAAAAAGgAAAAAAAAAAAAAAGgAAAAAAAAAbAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAFgAAAAAAAAAWAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							7,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAABsAAAAAAAAAHAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAGwAAAAAAAAAbAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							8,
+							1,
+							"insert_snippet",
+							{
+								"contents": "($0)"
+							},
+							"AQAAABwAAAAAAAAAHgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAHAAAAAAAAAAcAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							10,
+							1,
+							"insert",
+							{
+								"characters": "\nP"
+							},
+							"AgAAAB4AAAAAAAAAHwAAAAAAAAAAAAAAHwAAAAAAAAAgAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAHgAAAAAAAAAeAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							11,
+							1,
+							"left_delete",
+							null,
+							"AQAAAB8AAAAAAAAAHwAAAAAAAAABAAAAUA",
+							"AQAAAAAAAAABAAAAIAAAAAAAAAAgAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							12,
+							1,
+							"insert_snippet",
+							{
+								"contents": "{$0}"
+							},
+							"AQAAAB8AAAAAAAAAIQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAHwAAAAAAAAAfAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							13,
+							1,
+							"run_macro_file",
+							{
+								"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+							},
+							"AwAAACAAAAAAAAAAIQAAAAAAAAAAAAAAIQAAAAAAAAAiAAAAAAAAAAAAAAAhAAAAAAAAACIAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAIAAAAAAAAAAgAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							14,
+							1,
+							"insert",
+							{
+								"characters": "int"
+							},
+							"AwAAACIAAAAAAAAAIwAAAAAAAAAAAAAAIwAAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACUAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAIgAAAAAAAAAiAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							15,
+							1,
+							"insert",
+							{
+								"characters": " x;"
+							},
+							"AwAAACUAAAAAAAAAJgAAAAAAAAAAAAAAJgAAAAAAAAAnAAAAAAAAAAAAAAAnAAAAAAAAACgAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAJQAAAAAAAAAlAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							16,
+							1,
+							"insert",
+							{
+								"characters": "\nx=9"
+							},
+							"BQAAACgAAAAAAAAAKQAAAAAAAAAAAAAAKQAAAAAAAAAqAAAAAAAAAAAAAAAqAAAAAAAAACsAAAAAAAAAAAAAACsAAAAAAAAALAAAAAAAAAAAAAAALAAAAAAAAAAtAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAKAAAAAAAAAAoAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							17,
+							1,
+							"insert",
+							{
+								"characters": ";"
+							},
+							"AQAAAC0AAAAAAAAALgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAALQAAAAAAAAAtAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							18,
+							1,
+							"insert",
+							{
+								"characters": "\n\npri"
+							},
+							"CAAAAC4AAAAAAAAALwAAAAAAAAAAAAAALwAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAADEAAAAAAAAAAAAAADEAAAAAAAAAMgAAAAAAAAAAAAAALwAAAAAAAAAvAAAAAAAAAAEAAAAJMQAAAAAAAAAyAAAAAAAAAAAAAAAyAAAAAAAAADMAAAAAAAAAAAAAADMAAAAAAAAANAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAALgAAAAAAAAAuAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							19,
+							1,
+							"insert",
+							{
+								"characters": "ntf"
+							},
+							"AwAAADQAAAAAAAAANQAAAAAAAAAAAAAANQAAAAAAAAA2AAAAAAAAAAAAAAA2AAAAAAAAADcAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAANAAAAAAAAAA0AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							20,
+							1,
+							"insert_snippet",
+							{
+								"contents": "($0)"
+							},
+							"AQAAADcAAAAAAAAAOQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAANwAAAAAAAAA3AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							21,
+							1,
+							"insert_snippet",
+							{
+								"contents": "\"$0\""
+							},
+							"AQAAADgAAAAAAAAAOgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAOAAAAAAAAAA4AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							22,
+							1,
+							"insert",
+							{
+								"characters": "%d"
+							},
+							"AgAAADkAAAAAAAAAOgAAAAAAAAAAAAAAOgAAAAAAAAA7AAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAOQAAAAAAAAA5AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							24,
+							1,
+							"insert",
+							{
+								"characters": ",x"
+							},
+							"AgAAADwAAAAAAAAAPQAAAAAAAAAAAAAAPQAAAAAAAAA+AAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAPAAAAAAAAAA8AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							26,
+							1,
+							"insert",
+							{
+								"characters": ";"
+							},
+							"AQAAAD8AAAAAAAAAQAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAPwAAAAAAAAA/AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							27,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AgAAAEAAAAAAAAAAQQAAAAAAAAAAAAAAQQAAAAAAAABCAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							30,
+							1,
+							"right_delete",
+							null,
+							"AQAAAAIAAAAAAAAAAgAAAAAAAABCAAAAbmNsdWRlPHN0ZGlvLmg+CgppbnQgbWFpbiAoKQp7CglpbnQgeDsKCXg9OTsKCglwcmludGYoIiVkIix4KTsKCQp9",
+							"AQAAAAAAAAABAAAARAAAAAAAAAACAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							31,
+							1,
+							"left_delete",
+							null,
+							"AQAAAAEAAAAAAAAAAQAAAAAAAAABAAAAaQ",
+							"AQAAAAAAAAABAAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							32,
+							1,
+							"insert",
+							{
+								"characters": "!/bin/"
+							},
+							"BgAAAAEAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAcAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							33,
+							1,
+							"insert",
+							{
+								"characters": "bs"
+							},
+							"AgAAAAcAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAJAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAABwAAAAAAAAAHAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							34,
+							1,
+							"left_delete",
+							null,
+							"AQAAAAgAAAAAAAAACAAAAAAAAAABAAAAcw",
+							"AQAAAAAAAAABAAAACQAAAAAAAAAJAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							35,
+							1,
+							"insert",
+							{
+								"characters": "ash"
+							},
+							"AwAAAAgAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAKAAAAAAAAAAAAAAAKAAAAAAAAAAsAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							36,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAAsAAAAAAAAADAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAACwAAAAAAAAALAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							37,
+							1,
+							"insert",
+							{
+								"characters": "\n\necho"
+							},
+							"BgAAAAwAAAAAAAAADQAAAAAAAAAAAAAADQAAAAAAAAAOAAAAAAAAAAAAAAAOAAAAAAAAAA8AAAAAAAAAAAAAAA8AAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAARAAAAAAAAAAAAAAARAAAAAAAAABIAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAADAAAAAAAAAAMAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							38,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAABIAAAAAAAAAEwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAEgAAAAAAAAASAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							39,
+							1,
+							"insert_snippet",
+							{
+								"contents": "\"$0\""
+							},
+							"AQAAABMAAAAAAAAAFQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAEwAAAAAAAAATAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							40,
+							1,
+							"insert",
+							{
+								"characters": "hello"
+							},
+							"BQAAABQAAAAAAAAAFQAAAAAAAAAAAAAAFQAAAAAAAAAWAAAAAAAAAAAAAAAWAAAAAAAAABcAAAAAAAAAAAAAABcAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAZAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAFAAAAAAAAAAUAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							41,
+							1,
+							"insert",
+							{
+								"characters": " world"
+							},
+							"BgAAABkAAAAAAAAAGgAAAAAAAAAAAAAAGgAAAAAAAAAbAAAAAAAAAAAAAAAbAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAHQAAAAAAAAAAAAAAHQAAAAAAAAAeAAAAAAAAAAAAAAAeAAAAAAAAAB8AAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAGQAAAAAAAAAZAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							43,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAACAAAAAAAAAAIQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAIAAAAAAAAAAgAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							46,
+							1,
+							"right_delete",
+							null,
+							"AQAAAAEAAAAAAAAAAQAAAAAAAAAgAAAAIS9iaW4vYmFzaCAKCmVjaG8gImhlbGxvIHdvcmxkIgo",
+							"AQAAAAAAAAABAAAAIQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							47,
+							1,
+							"insert",
+							{
+								"characters": "include<s"
+							},
+							"CQAAAAEAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAJAAAAAAAAAAAAAAAJAAAAAAAAAAoAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							48,
+							1,
+							"insert",
+							{
+								"characters": "tdio.h"
+							},
+							"BgAAAAoAAAAAAAAACwAAAAAAAAAAAAAACwAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAAA0AAAAAAAAAAAAAAA0AAAAAAAAADgAAAAAAAAAAAAAADgAAAAAAAAAPAAAAAAAAAAAAAAAPAAAAAAAAABAAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAACgAAAAAAAAAKAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							49,
+							1,
+							"insert",
+							{
+								"characters": ">"
+							},
+							"AQAAABAAAAAAAAAAEQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							50,
+							1,
+							"insert",
+							{
+								"characters": "\n\nin"
+							},
+							"BAAAABEAAAAAAAAAEgAAAAAAAAAAAAAAEgAAAAAAAAATAAAAAAAAAAAAAAATAAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAFQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAEQAAAAAAAAARAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							51,
+							1,
+							"insert",
+							{
+								"characters": "t"
+							},
+							"AQAAABUAAAAAAAAAFgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAFQAAAAAAAAAVAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							52,
+							1,
+							"insert",
+							{
+								"characters": " mai"
+							},
+							"BAAAABYAAAAAAAAAFwAAAAAAAAAAAAAAFwAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABkAAAAAAAAAAAAAABkAAAAAAAAAGgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAFgAAAAAAAAAWAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							53,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAABoAAAAAAAAAGwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAGgAAAAAAAAAaAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							54,
+							1,
+							"left_delete",
+							null,
+							"AQAAABoAAAAAAAAAGgAAAAAAAAABAAAAIA",
+							"AQAAAAAAAAABAAAAGwAAAAAAAAAbAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							55,
+							1,
+							"insert",
+							{
+								"characters": "n"
+							},
+							"AQAAABoAAAAAAAAAGwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAGgAAAAAAAAAaAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							56,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAABsAAAAAAAAAHAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAGwAAAAAAAAAbAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							57,
+							1,
+							"insert_snippet",
+							{
+								"contents": "($0)"
+							},
+							"AQAAABwAAAAAAAAAHgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAHAAAAAAAAAAcAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							59,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAB4AAAAAAAAAHwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAHgAAAAAAAAAeAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							60,
+							1,
+							"insert_snippet",
+							{
+								"contents": "{$0}"
+							},
+							"AQAAAB8AAAAAAAAAIQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAHwAAAAAAAAAfAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							61,
+							1,
+							"run_macro_file",
+							{
+								"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+							},
+							"AwAAACAAAAAAAAAAIQAAAAAAAAAAAAAAIQAAAAAAAAAiAAAAAAAAAAAAAAAhAAAAAAAAACIAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAIAAAAAAAAAAgAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							62,
+							1,
+							"insert",
+							{
+								"characters": "int"
+							},
+							"AwAAACIAAAAAAAAAIwAAAAAAAAAAAAAAIwAAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACUAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAIgAAAAAAAAAiAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							63,
+							1,
+							"insert",
+							{
+								"characters": " x;"
+							},
+							"AwAAACUAAAAAAAAAJgAAAAAAAAAAAAAAJgAAAAAAAAAnAAAAAAAAAAAAAAAnAAAAAAAAACgAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAJQAAAAAAAAAlAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							64,
+							1,
+							"insert",
+							{
+								"characters": "\nx"
+							},
+							"AwAAACgAAAAAAAAAKQAAAAAAAAAAAAAAKQAAAAAAAAAqAAAAAAAAAAAAAAAqAAAAAAAAACsAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAKAAAAAAAAAAoAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							65,
+							1,
+							"insert",
+							{
+								"characters": "=9;"
+							},
+							"AwAAACsAAAAAAAAALAAAAAAAAAAAAAAALAAAAAAAAAAtAAAAAAAAAAAAAAAtAAAAAAAAAC4AAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAKwAAAAAAAAArAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							66,
+							1,
+							"insert",
+							{
+								"characters": "\n\npr"
+							},
+							"BwAAAC4AAAAAAAAALwAAAAAAAAAAAAAALwAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAADEAAAAAAAAAAAAAADEAAAAAAAAAMgAAAAAAAAAAAAAALwAAAAAAAAAvAAAAAAAAAAEAAAAJMQAAAAAAAAAyAAAAAAAAAAAAAAAyAAAAAAAAADMAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAALgAAAAAAAAAuAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							67,
+							1,
+							"insert",
+							{
+								"characters": "intf"
+							},
+							"BAAAADMAAAAAAAAANAAAAAAAAAAAAAAANAAAAAAAAAA1AAAAAAAAAAAAAAA1AAAAAAAAADYAAAAAAAAAAAAAADYAAAAAAAAANwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAMwAAAAAAAAAzAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							68,
+							1,
+							"insert_snippet",
+							{
+								"contents": "($0)"
+							},
+							"AQAAADcAAAAAAAAAOQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAANwAAAAAAAAA3AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							69,
+							1,
+							"insert_snippet",
+							{
+								"contents": "\"$0\""
+							},
+							"AQAAADgAAAAAAAAAOgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAOAAAAAAAAAA4AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							70,
+							1,
+							"insert",
+							{
+								"characters": "hhello"
+							},
+							"BgAAADkAAAAAAAAAOgAAAAAAAAAAAAAAOgAAAAAAAAA7AAAAAAAAAAAAAAA7AAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAPQAAAAAAAAAAAAAAPQAAAAAAAAA+AAAAAAAAAAAAAAA+AAAAAAAAAD8AAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAOQAAAAAAAAA5AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							71,
+							1,
+							"insert",
+							{
+								"characters": " world"
+							},
+							"BgAAAD8AAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABBAAAAAAAAAAAAAABBAAAAAAAAAEIAAAAAAAAAAAAAAEIAAAAAAAAAQwAAAAAAAAAAAAAAQwAAAAAAAABEAAAAAAAAAAAAAABEAAAAAAAAAEUAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAPwAAAAAAAAA/AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							74,
+							2,
+							"right_delete",
+							null,
+							"AQAAAAMAAAAAAAAAAwAAAAAAAABGAAAAY2x1ZGU8c3RkaW8uaD4KCmludCBtYWluICgpCnsKCWludCB4OwoJeD05OwoKCXByaW50ZigiaGhlbGxvIHdvcmxkIikKfQ",
+							"AQAAAAAAAAABAAAASQAAAAAAAAADAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							75,
+							3,
+							"left_delete",
+							null,
+							"AwAAAAIAAAAAAAAAAgAAAAAAAAABAAAAbgEAAAAAAAAAAQAAAAAAAAABAAAAaQAAAAAAAAAAAAAAAAAAAAABAAAAIw",
+							"AQAAAAAAAAABAAAAAwAAAAAAAAADAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							76,
+							1,
+							"insert",
+							{
+								"characters": "#!/"
+							},
+							"AwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							77,
+							1,
+							"insert",
+							{
+								"characters": "bin/b"
+							},
+							"BQAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAIAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAwAAAAAAAAADAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							78,
+							1,
+							"insert",
+							{
+								"characters": "ash"
+							},
+							"AwAAAAgAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAKAAAAAAAAAAAAAAAKAAAAAAAAAAsAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							79,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAAsAAAAAAAAADAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAACwAAAAAAAAALAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							80,
+							1,
+							"insert",
+							{
+								"characters": "\n\n\necho"
+							},
+							"BwAAAAwAAAAAAAAADQAAAAAAAAAAAAAADQAAAAAAAAAOAAAAAAAAAAAAAAAOAAAAAAAAAA8AAAAAAAAAAAAAAA8AAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAARAAAAAAAAAAAAAAARAAAAAAAAABIAAAAAAAAAAAAAABIAAAAAAAAAEwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAADAAAAAAAAAAMAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							81,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAABMAAAAAAAAAFAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAEwAAAAAAAAATAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							82,
+							1,
+							"insert_snippet",
+							{
+								"contents": "\"$0\""
+							},
+							"AQAAABQAAAAAAAAAFgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAFAAAAAAAAAAUAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							83,
+							1,
+							"insert",
+							{
+								"characters": "hello"
+							},
+							"BQAAABUAAAAAAAAAFgAAAAAAAAAAAAAAFgAAAAAAAAAXAAAAAAAAAAAAAAAXAAAAAAAAABgAAAAAAAAAAAAAABgAAAAAAAAAGQAAAAAAAAAAAAAAGQAAAAAAAAAaAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAFQAAAAAAAAAVAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							84,
+							1,
+							"insert",
+							{
+								"characters": " world"
+							},
+							"BgAAABoAAAAAAAAAGwAAAAAAAAAAAAAAGwAAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAAB0AAAAAAAAAAAAAAB0AAAAAAAAAHgAAAAAAAAAAAAAAHgAAAAAAAAAfAAAAAAAAAAAAAAAfAAAAAAAAACAAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAGgAAAAAAAAAaAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							86,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAACEAAAAAAAAAIgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAIQAAAAAAAAAhAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							87,
+							1,
+							"insert",
+							{
+								"characters": "echo"
+							},
+							"BAAAACIAAAAAAAAAIwAAAAAAAAAAAAAAIwAAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACUAAAAAAAAAAAAAACUAAAAAAAAAJgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAIgAAAAAAAAAiAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							88,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAACYAAAAAAAAAJwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAJgAAAAAAAAAmAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							89,
+							1,
+							"insert_snippet",
+							{
+								"contents": "\"$0\""
+							},
+							"AQAAACcAAAAAAAAAKQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAJwAAAAAAAAAnAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							90,
+							1,
+							"insert",
+							{
+								"characters": "sekoseko"
+							},
+							"CAAAACgAAAAAAAAAKQAAAAAAAAAAAAAAKQAAAAAAAAAqAAAAAAAAAAAAAAAqAAAAAAAAACsAAAAAAAAAAAAAACsAAAAAAAAALAAAAAAAAAAAAAAALAAAAAAAAAAtAAAAAAAAAAAAAAAtAAAAAAAAAC4AAAAAAAAAAAAAAC4AAAAAAAAALwAAAAAAAAAAAAAALwAAAAAAAAAwAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAKAAAAAAAAAAoAAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/ahmed/lol/no.sh",
+				"/home/ahmed/tri/trick/l.sh"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/ahmed/tri/trick/loop.sh",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 49,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										48,
+										48
+									]
+								],
+								"settings":
+								{
+									"auto_name": "#include<stdio.h>",
+									"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,0,0,1360,768,0",
+			"project": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
